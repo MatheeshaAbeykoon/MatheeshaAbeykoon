@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Matheesha Abeykoon
 
-## 🎓 Mathematics Educator & Web Developer
+## 🎓 Mathematics Educator & QA engineer
 
 Welcome to my GitHub profile!
 
