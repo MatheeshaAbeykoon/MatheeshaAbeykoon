@@ -93,7 +93,7 @@ React Native
 **9 A Passes**
 
 ### G.C.E. Advanced Level (A/L)
-**Mathematics Stream — A, C, C**
+**Physical Science Stream — A, C, C**
 
 ---
 
