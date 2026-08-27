@@ -1,66 +1,132 @@
-# Hi there 👋, I'm Matheesha Abeykoon
+# Hi, I'm Matheesha Abeykoon 👋
 
-## 🎓 Mathematics Educator & QA engineer
+### QA Engineer | Software Developer | Mathematics Educator
 
-Welcome to my GitHub profile!
+I am a QA Engineer and Software Developer with an interest in software quality assurance, web development, mobile application development, and educational technology.
 
-I am passionate about education, technology, and creating digital solutions that make Mathematics learning easier, more interactive, and accessible for students.
-
-## 🚀 About Me
-
-- 📚 Mathematics Teacher for Grades 6–11
-- 💻 Web Developer specializing in educational platforms
-- 🌱 Currently expanding my knowledge in modern web technologies and software development
-- 🎯 Focused on building Mathematics Learning Management Systems (LMS)
-- 🇱🇰 Based in Sri Lanka
-
-## 🛠️ Technologies & Tools
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-## 📌 Current Project
-
-### Mathematics LMS Platform
-
-A web-based learning management system designed to support Mathematics education for school students.
-
-#### Key Features
-
-- Student Registration & Authentication
-- Course & Lesson Management
-- Learning Resources and Notes
-- Assignment Management
-- Progress Tracking
-- Responsive User Interface
-
-## 🎯 Goals
-
-- Develop innovative educational solutions
-- Enhance digital learning experiences
-- Contribute to open-source projects
-- Continuously improve my development skills
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
-
-## 📫 Connect With Me
-
-- GitHub: https://github.com/YOUR_USERNAME
-- Email: your-email@example.com
+I enjoy building practical software solutions, testing applications, and continuously improving my technical skills through real-world projects.
 
 ---
 
-### 💡 Motto
+## 🛠️ Technical Skills
 
-> "Empowering students through Mathematics and Technology."
+### Software Testing
+- Manual Testing
+- Test Case Design
+- Test Planning
+- Bug Reporting
+- API Testing
+- Selenium
+
+### Programming & Development
+- Java
+- JavaScript
+- HTML & CSS
+- React
+- React Native
+- SQL
+
+### Tools & Technologies
+- Git & GitHub
+- Jira
+
+---
+
+## 🚀 Featured Projects
+
+### 📚 Online Mathematics Academy
+
+A web-based Mathematics Learning Management System developed to support Mathematics education.
+
+**Key Features:**
+- Online Mathematics lessons
+- Video-based learning resources
+- Assignments and quizzes
+- Student learning support
+
+**Goal:**  
+To provide students with an accessible digital platform for learning Mathematics.
+
+🔗 [View Project](https://github.com/MatheeshaAbeykoon/online-mathematics-academy)
+
+---
+
+### 👥 OnTime – HR Management System
+
+A group project focused on developing a web-based HR management solution.
+
+**Key Features:**
+- Employee management
+- Attendance management
+- HR-related workflows
+- Administrative features
+
+**Goal:**  
+To improve the efficiency of HR-related processes through a centralized digital system.
+
+🔗 [View Project](https://github.com/OnTime-HR/OnTime-web)
+
+---
+
+### 🖨️ Smart Print Management System
+
+A mobile application project focused on simplifying printing-related operations and reducing manual work.
+
+**Key Focus:**
+- Print order management
+- Customer billing
+- Printout management
+- Reducing manual work
+
+**Technology:**  
+React Native
+
+🔗 [View My GitHub](https://github.com/MatheeshaAbeykoon)
+
+---
+
+## 🎓 Education
+
+**H/Weeraketiya Rajapaksha Central College**
+
+### G.C.E. Ordinary Level (O/L)
+**9 A Passes**
+
+### G.C.E. Advanced Level (A/L)
+**Mathematics Stream — A, C, C**
+
+---
+
+## 📜 Certifications
+
+- Test Automation with Selenium WebDriver for Java
+- Test Automation Foundations
+- Introduction to Cloud Security
+- Project Management Foundations: Risk
+- Driving AI Success with Microsoft: Real-World Business Impact
+
+---
+
+## 🌐 Portfolio
+
+Check out my personal portfolio to learn more about my skills, projects, and experience.
+
+👉 **[View My Portfolio](https://matheeshaabeykoon.github.io/githubportfolio/)**
+
+---
+
+## 🔗 Connect With Me
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/matheesha-abeykoon-188583319/)
+- 💻 [GitHub](https://github.com/MatheeshaAbeykoon)
+- 🌐 [Portfolio](https://matheeshaabeykoon.github.io/githubportfolio/)
+
+---
+
+## 🎯 Career Goal
+
+I am currently focused on developing my career in **Software Quality Assurance and Software Development**, while continuously improving my skills in software testing, automation, web development, and mobile application development.
+
+---
+
+⭐ Thank you for visiting my GitHub profile!
